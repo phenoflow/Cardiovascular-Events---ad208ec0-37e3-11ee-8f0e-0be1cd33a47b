@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/acute-cardiovascular-events---secondary.py
+inputModule3:
+  class: File
+  path: python/cardiovascular-events-anterior---secondary.py
+inputModule4:
+  class: File
+  path: python/cardiovascular-events-inferior---secondary.py
+inputModule5:
+  class: File
+  path: python/other-cardiovascular-events---secondary.py
+inputModule6:
+  class: File
+  path: python/cardiovascular-events-specified---secondary.py
+inputModule7:
+  class: File
+  path: python/subsequent-cardiovascular-events---secondary.py
+inputModule8:
+  class: File
+  path: python/cardiovascular-events-following---secondary.py
+inputModule9:
+  class: File
+  path: python/cardiovascular-events-haemopericardium---secondary.py
+inputModule10:
+  class: File
+  path: python/cardiovascular-events-defect---secondary.py
+inputModule11:
+  class: File
+  path: python/cardiovascular-events-rupture---secondary.py
+inputModule12:
+  class: File
+  path: python/cardiovascular-events-thrombosis---secondary.py
+inputModule13:
+  class: File
+  path: python/precerebral-cardiovascular-events---secondary.py
+inputModule14:
+  class: File
+  path: python/cardiovascular-events-embolism---secondary.py
+inputModule15:
+  class: File
+  path: python/cardiovascular-events-haemorrhage---secondary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
